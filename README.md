@@ -1,6 +1,6 @@
 <img src="logo.png" alt="isolated" width="150"/>
 
-## ✩ [TRY IT NOW](https://10c345fa-d1df-4383-a520-5fcbf0d9b645-00-1fplx2t4j39p3.kirk.replit.dev/)
+## ✩ [TRY IT NOW](https://s0ph13ann3.github.io/Hestia/)
 
 ## ✩ ABOUT
 A website that provides a platform for all small and local businesses to share their stories and struggles throughout the COVID-19 pandemic. 
